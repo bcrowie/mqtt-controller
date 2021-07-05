@@ -10,8 +10,8 @@
 #define RST_PIN -1
 
 // WiFi
-#define WIFI_SSID "BHN-Lashley"
-#define WIFI_PASSWORD "W@terL00"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 SSD1306AsciiWire oled;
 
 // Rotary Encoder
